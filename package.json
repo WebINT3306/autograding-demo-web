@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "autograding-demo-web",
+  "description": "Bài tập demo autograding - Phát triển ứng dụng Web",
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "babel-jest": "^29.6.0",
+    "jest": "^29.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
